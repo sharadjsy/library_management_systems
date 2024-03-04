@@ -1,0 +1,17 @@
+{
+ "A": {
+  "author": "John",
+  "isbn": "2024/1",
+  "copies": 2
+ },
+ "B": {
+  "author": "Max",
+  "isbn": "2024/2",
+  "copies": 3
+ },
+ "C": {
+  "author": "Joe",
+  "isbn": "2024/3",
+  "copies": 4
+ }
+}
